@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viel geben wir fürs Wohnen aus?",
+  "subtitle": "Im Jahr 2024 gaben die Menschen in den EU-Ländern durchschnittlich 19,2 % ihres verfügbaren Einkommens für Wohnraum aus.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Daten für Litauen sind vorläufig.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "des verfügbaren Einkommens",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
